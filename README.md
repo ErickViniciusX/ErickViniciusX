@@ -1,4 +1,5 @@
-### Hi there 👋
+## ESTUDANTE EM CIÊNCIA DA COMPUTAÇÃO 
+
 
 <!--
 **ErickViniciusX/ErickViniciusX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
